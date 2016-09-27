@@ -1,4 +1,4 @@
-# Tate (modern) Contemporary themes
+# [Tate](http://www.tate.org.uk/visit/tate-modern) Contemporary themes
 Using the Tate Museum's data generate a thematic model of artists.
 
 The Tate has a set of [json files](https://github.com/tategallery/collection/tree/master/artworks) that 
